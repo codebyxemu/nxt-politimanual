@@ -6,6 +6,10 @@ description: >-
 
 # 🏎️ X-Ray
 
+{% hint style="danger" %}
+Du trenger **SU (Spesialutrykning)** for å søke X-Ray.&#x20;
+{% endhint %}
+
 X-Ray-kompetanse gir politiansatte ferdigheter til å bruke racingkjøretøy i politiets operasjoner. Denne spesialiseringen er fokusert på håndtering av høye hastigheter og raske respons i uniformerte politibiler.
 
 * **Opplæring:** Opplæringen for X-Ray-kompetanse er basert på håndplukking fra instruktører. Kandidater som velges, gjennomgår spesialisert trening for å mestre kjøretøyene i høye hastigheter, inkludert teknikker for kontroll og presisjon i racingmiljøer.

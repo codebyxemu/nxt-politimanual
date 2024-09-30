@@ -4,6 +4,15 @@ description: Tango er en spesialisering i bruk av motorsykler i politiets operas
 
 # 🛵 Tango
 
+{% hint style="danger" %}
+**For å kunne søke om Tango-kompetanse må du:**
+
+* Være Sierra eller høyere
+* Ha bestått Klasse A lappen
+* Du må eie en Nagasaki Shinobi (Tango-motorsykkel)\
+  på forhånd av innsendt søknad.
+{% endhint %}
+
 Tango-kompetanse gir politiansatte ferdigheter til å bruke motorsykler i operasjoner. Denne spesialiseringen er viktig for å håndtere situasjoner som krever høy mobilitet og rask respons på vei og i trafikkerte områder.
 
 * **Opplæring:** For å oppnå Tango-kompetanse må man gjennomgå spesialisert opplæring i motorsykkelkjøring, inkludert sikkerhetsprosedyrer, håndtering av utfordrende kjøreforhold, og taktiske ferdigheter knyttet til bruk av motorsykkel i politioperasjoner.

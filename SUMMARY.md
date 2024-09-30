@@ -2,6 +2,7 @@
 
 * [Dokumentet er tiltenkt rollespill](README.md)
 * [👋 Velkommen!](velkommen.md)
+* [⚒️ UAK-regler](uak-regler.md)
 
 ## ⚙️ STRUKTUR
 
@@ -47,7 +48,8 @@
   * [📜 Rapporter](det-grunnleggende/cad-manual/rapporter.md)
 * [🔫 Våpen-manual](det-grunnleggende/vapen-manual/README.md)
   * [📜 Våpentilgang](det-grunnleggende/vapen-manual/vapentilgang.md)
-* [⚖️ Juridiske prosedyrer](det-grunnleggende/juridiske-prosedyrer.md)
+* [⚖️ Juridiske prosedyrer](det-grunnleggende/juridiske-prosedyrer/README.md)
+  * [Razzia og ransakelser](det-grunnleggende/juridiske-prosedyrer/razzia-og-ransakelser.md)
 * [👔 Uniformsmanual](det-grunnleggende/uniformsmanual.md)
 
 ## 🌟 Generelt

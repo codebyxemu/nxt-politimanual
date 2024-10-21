@@ -8,9 +8,11 @@ description: >-
 
 Denne manualen gjør det enkelt å følge riktig uniformsbruk for ansatte i Oslo Politidistrikt. Her får du en detaljert oversikt over hva som er tillatt og påkrevd avhengig av din rang i politiet. Feil uniformsbruk kan medføre prikker for brudd på politi-manualen. Det er ditt ansvar som ansatt å være oppdatert på interne regler.
 
-### Svarte t-skjorten
+### Generell uniform
 
-Den svarte t-skjorten er kun for nestledelsen og ledelsen, og skal kun brukes ved administrativt arbeid eller på stasjonen. X-ray t-skjorten kan brukes i felt så lenge kompetansen er godkjent.
+Vanlig uniform uten modifikasjoner skal brukes til enhver tid, med mindre din avdeling har andre retningslinjer som tilsier at du skal bruke noe annet.
+
+Uprofesjonelle uniformer eller modifikasjoner er ikke tillatt.
 
 ### Sivil bekledning
 
@@ -32,5 +34,11 @@ Din uniform skal være enten:
 
 * Blå kortermet/langermet
 * Sort kortermet/langermet
+
+### Politigenseren
+
+Politigenseren er tilgjengelig for alle betjenter, kombinert med bruk av vanlig uniform.
+
+
 
 Det er viktig at uniformen har riktig gradering, som du finner under avsnittet "Graderinger." Det skal ikke være noen unødvendige elementer på uniformen som skiller seg ut. Uniformen skal holdes enkel og profesjonell, uten ekstra symboler eller pynt som ikke er en del av den offisielle politiuniformen.

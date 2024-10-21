@@ -16,3 +16,5 @@ Politiledelsen er ansvarlig for å holde styr på styrken og gjøre endringer fo
   * Representerer politiledelsen innad i avdelingene.
   * Øverste ansvarlig i avdelingene.
   * Administrerer styrken i en helhet.
+
+Et nedre ledd i politiledelsen er nestledelsen, som representeres av avdelingsledere. Disse er med på enkelte beslutninger vi gjør i styrken.

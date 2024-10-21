@@ -28,4 +28,8 @@ coverY: 0
 * **Klare og korte meldinger:** Når du kommuniserer på sambandet, hold meldinger korte og tydelige. Unngå overflødig informasjon og sørg for at beskjedene dine er enkle å forstå.
 * **Respekter sambandet:** Vis respekt for sambandet ved å unngå avbrytelser, vente på din tur til å snakke, og aldri bruke sambandet til personlig eller uoffisiell kommunikasjon.
 
+**Uniform**:
+
+* Standard uniform skal alltid benyttes i felt uten noen andre modifikasjoner. Unntak gjelder Hønefoss politidistrikt som har egne regler.
+
 Ved å følge disse forventningene sikrer vi at operasjoner i felt utføres på en effektiv, sikker og profesjonell måte, og at vi opprettholder tilliten og respekten til politiet blant publikum.

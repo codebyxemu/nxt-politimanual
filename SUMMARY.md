@@ -3,20 +3,25 @@
 * [Dokumentet er tiltenkt rollespill](README.md)
 * [👋 Velkommen!](velkommen.md)
 * [⚒️ UAK-regler](uak-regler.md)
+* [Kjerneverdier](kjerneverdier.md)
+
+## 👋 Velkommen til politiet!
+
+* [👋 Velkommen!](velkommen-til-politiet/velkommen.md)
 
 ## ⚙️ STRUKTUR
 
+* [🔗 Kommandolinje](struktur/kommandolinje.md)
 * [👮 Politiledelsen](struktur/politiledelsen.md)
 * [🏬 Avdelingene](struktur/avdelingene/README.md)
   * [🌟 Spesialenheten](struktur/avdelingene/spesialenheten.md)
   * [💼 Mike](struktur/avdelingene/mike.md)
   * [🕵️ Kripos](struktur/avdelingene/kripos.md)
-  * [👮 Innsatsleder](struktur/avdelingene/innsatsleder.md)
   * [🏫 Politihøgskolen](struktur/avdelingene/politihogskolen.md)
-  * [🚓 Utrykningspolitiet](struktur/avdelingene/utrykningspolitiet.md)
-  * [🐕 Hundepatruljen](struktur/avdelingene/hundepatruljen.md)
-  * [🚔 Hønefoss Politidistrikt](struktur/avdelingene/honefoss-politidistrikt.md)
+  * [🏛️ Kriminalomsorgen](struktur/avdelingene/kriminalomsorgen.md)
   * [⚖️ Påtalemyndigheten](struktur/avdelingene/patalemyndigheten.md)
+  * [🚔 Hønefoss politidistrikt](struktur/avdelingene/honefoss-politidistrikt.md)
+  * [🚓 Utrykningspolitiet](struktur/avdelingene/utrykningspolitiet.md)
 * [🏬 Sidekompetanser](struktur/sidekompetanser/README.md)
   * [🚁 Helikopter](struktur/sidekompetanser/helikopter.md)
   * [🛵 Tango](struktur/sidekompetanser/tango.md)
@@ -25,6 +30,8 @@
   * [📞 Operasjonsentralen](struktur/sidekompetanser/operasjonsentralen.md)
   * [👕 Sivilkurs](struktur/sidekompetanser/sivilkurs.md)
   * [👮‍♂️ Utrykningsenheten](struktur/sidekompetanser/utrykningsenheten.md)
+  * [👮 Innsatsleder](struktur/sidekompetanser/innsatsleder.md)
+  * [🐕 Hundepatruljen](struktur/sidekompetanser/hundepatruljen.md)
 
 ## ✨ DET GRUNNLEGGENDE
 

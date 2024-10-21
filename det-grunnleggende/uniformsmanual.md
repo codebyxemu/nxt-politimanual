@@ -12,7 +12,7 @@ Denne manualen gjør det enkelt å følge riktig uniformsbruk for ansatte i Oslo
 
 Vanlig uniform uten modifikasjoner skal brukes til enhver tid, med mindre din avdeling har andre retningslinjer som tilsier at du skal bruke noe annet.
 
-Uprofesjonelle uniformer eller modifikasjoner er ikke tillatt.
+Uprofesjonelle uniformer eller modifikasjoner er ikke tillatt. Politi t-skjorten er forbeholdt ledelsen og avdelingsledere.
 
 ### Sivil bekledning
 

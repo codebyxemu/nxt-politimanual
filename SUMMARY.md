@@ -1,9 +1,7 @@
 # Table of contents
 
-* [Dokumentet er tiltenkt rollespill](README.md)
-* [👋 Velkommen!](velkommen.md)
+* [📜 Dokumentet er tiltenkt rollespill](README.md)
 * [⚒️ UAK-regler](uak-regler.md)
-* [Kjerneverdier](kjerneverdier.md)
 
 ## 👋 Velkommen til politiet!
 
@@ -30,8 +28,8 @@
   * [📞 Operasjonsentralen](struktur/sidekompetanser/operasjonsentralen.md)
   * [👕 Sivilkurs](struktur/sidekompetanser/sivilkurs.md)
   * [👮‍♂️ Utrykningsenheten](struktur/sidekompetanser/utrykningsenheten.md)
-  * [👮 Innsatsleder](struktur/sidekompetanser/innsatsleder.md)
-  * [🐕 Hundepatruljen](struktur/sidekompetanser/hundepatruljen.md)
+  * [👮 Innsatsleder](struktur/avdelingene/innsatsleder.md)
+  * [🐕 Hundepatruljen](struktur/avdelingene/hundepatruljen.md)
 
 ## ✨ DET GRUNNLEGGENDE
 

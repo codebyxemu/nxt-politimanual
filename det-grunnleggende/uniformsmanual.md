@@ -28,6 +28,8 @@ Alle kan bruke politiskilt, men Kripos-skiltet er kun for Kripos. Hvis du går s
 
 Hodeplagg skal være profesjonelle og nøytrale i farge, uten logo, med unntak av politi-logo som er tillatt.
 
+Som en politibetjent, skal du ikke benytte "cowboy-hatten" med mindre du er i Hønefoss politidistrikt.
+
 ### Uniform
 
 Din uniform skal være enten:
